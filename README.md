@@ -25,9 +25,8 @@ Python
 Pandas
 Numpy
 
-
-Support and contact details
+## Support and contact details
 Incase of enquiries,additional suggestions or concerns,get in touch. jackkyalo978@gmail.com
 
-License
+## License
 MIT License ©2021 
